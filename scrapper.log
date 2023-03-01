@@ -1,0 +1,214 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.22:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:10] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:10] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:30] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:48] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:31:58] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:34:36] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.22:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:37:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:37:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:38:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:38:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:38:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:41:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:41:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:42:28] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:42:33] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:42:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:42:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:42:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/Video_Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug: * Detected change in '/config/workspace/Video_Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.22:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:20] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:28] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:45:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/Video_Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug: * Detected change in '/config/workspace/Video_Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.22:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:55:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 11:55:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 12:04:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 12:04:02] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 12:04:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 12:04:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.22:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 996-302-696
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 13:08:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 13:08:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 13:08:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 13:08:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [28/Feb/2023 13:08:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.8:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 682-709-301
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:20] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:20] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:32] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:34:45] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:35:00] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:35:12] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:35:29] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:35:35] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:35:39] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:18] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:37:50] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.8:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 682-709-301
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:38:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:25] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:25] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:52] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:39:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:04] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:10] "GET /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:31] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:43] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:40:48] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:41:01] "POST /review HTTP/1.1" 200 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:41:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:41:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:41:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:46:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:46:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:46:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:46:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:47:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:47:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [01/Mar/2023 17:47:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/Video_Scrapper/application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.8:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 682-709-301
